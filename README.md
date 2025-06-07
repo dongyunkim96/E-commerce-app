@@ -51,14 +51,14 @@ Directory Structure
 src/
 │
 ├── components/
-│   ├── App.js
-│   ├── ProductList.js
-│   ├── ProductItem.js
+│ ├── App.js
+│ ├── ProductList.js
+│ ├── ProductItem.js
 │
 ├── CSS/
-│   ├── App.css
-│   ├── ProductList.css
-│   ├── ProductItem.css
+│ ├── App.css
+│ ├── ProductList.css
+│ ├── ProductItem.css
 
 -------------------------------------------
 How to Run the Project
