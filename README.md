@@ -49,16 +49,16 @@ Components and Files
 Directory Structure
 -------------------------------------------
 src/</br>
-│
-├── components/
-│ ├── App.js
-│ ├── ProductList.js
-│ ├── ProductItem.js
-│
-├── CSS/
-│ ├── App.css
-│ ├── ProductList.css
-│ ├── ProductItem.css
+│</br>
+├── components/</br>
+│ ├── App.js</br>
+│ ├── ProductList.js</br>
+│ ├── ProductItem.js</br>
+│</br>
+├── CSS/</br>
+│ ├── App.css</br>
+│ ├── ProductList.css</br>
+│ ├── ProductItem.css</br>
 
 -------------------------------------------
 How to Run the Project
@@ -79,13 +79,13 @@ Styling (CSS Files)
 -------------------------------------------
 Example Product Data
 -------------------------------------------
-Here is a sample product data structure:
-
-id: 1
-name: "G80"
-price: "MSRP* $57,100"
-image: "https://example.com/image.jpg"
-description: "2025 Genesis G80 Luxury Midsize Sedan || Genesis USA"
-category: "Genesis"
+Here is a sample product data structure:</br>
+</br>
+id: 1</br>
+name: "G80"</br>
+price: "MSRP* $57,100"</br>
+image: "https://example.com/image.jpg"</br>
+description: "2025 Genesis G80 Luxury Midsize Sedan || Genesis USA"</br>
+category: "Genesis"</br>
 
 -------------------------------------------
