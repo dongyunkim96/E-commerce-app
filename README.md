@@ -48,7 +48,7 @@ Components and Files
 -------------------------------------------
 Directory Structure
 -------------------------------------------
-src/
+src/</br>
 │
 ├── components/
 │ ├── App.js
