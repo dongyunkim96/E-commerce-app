@@ -1,5 +1,5 @@
 import React from 'react';
-import '../CSS/ProductList.css'; // Assuming you have a CSS file for styling
+import '../CSS/ProductList.css'; 
 import ProductItem from './ProductItem';
 
 const ProductList = ({ products }) => {
